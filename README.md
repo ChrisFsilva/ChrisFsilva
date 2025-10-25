@@ -45,7 +45,8 @@ Internet corporativa: de 100 Mbps por R$ 2.000/mês → 700 Mbps dedicados por R
 Redução de 70 % nos custos e aumento de 600 % na velocidade contratada
 
 essa transformação elevou a performance, segurança e confiabilidade da rede, criando uma infraestrutura moderna, escalável e totalmente monitorada.
-[Ver projeto completo](https://github.com/ChrisFsilva/NomeDoRepositorio)
+
+[Ver projeto completo](https://github.com/ChrisFsilva/Reestrutura-o-completa-da-infraestrutura-de-rede-Pl-sticos-Alko-LTDA)
 
 
 ## 💻 Programação
