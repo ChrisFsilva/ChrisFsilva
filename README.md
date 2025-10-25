@@ -12,8 +12,39 @@ sou um profissional de tecnologia com ampla experiência em infraestrutura de ti
 
 # 🧩 Projetos
 ## 🛠️ Infraestutura
-### Restruturação da topologia de rede
+### 🚀 Reestruturação completa da infraestrutura de rede — Plásticos Alko LTDA
 
+A antiga rede da empresa operava sem monitoramento, com hubs em cascata, baixa estabilidade e desempenho crítico — o ponto mais distante do CPD recebia menos de 1 Mbps, mesmo com um link contratado de 100 Mbps.
+
+🛠️ **Após um projeto completo de modernização, a infraestrutura foi totalmente reformulada com:**
+
+Topologia em estrela com switches gerenciáveis
+
+Servidor DNS próprio (Pi-hole)
+
+Sistema de virtualização (Proxmox)
+
+Cloud storage interno (Nextcloud)
+
+📈 **Resultados alcançados:**
+
+Velocidade do ponto mais distante aumentou de 1 Mbps para 700 Mbps (+600 % de desempenho)
+
+Cobertura Wi-Fi unificada em toda a planta (800 m x 500 m)
+
+90 % de redução em propagandas durante a navegação
+
+100 % de eliminação de trojans identificados na rede
+
+Monitoramento proativo de servidores e câmeras com sistema próprio de alertas
+
+💰 **Otimização de custos:**
+
+Internet corporativa: de 100 Mbps por R$ 2.000/mês → 700 Mbps dedicados por R$ 600/mês
+
+Redução de 70 % nos custos e aumento de 600 % na velocidade contratada
+
+essa transformação elevou a performance, segurança e confiabilidade da rede, criando uma infraestrutura moderna, escalável e totalmente monitorada.
 [Ver projeto completo](https://github.com/ChrisFsilva/NomeDoRepositorio)
 
 
