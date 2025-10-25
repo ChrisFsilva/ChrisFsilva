@@ -49,7 +49,7 @@ essa transformação elevou a performance, segurança e confiabilidade da rede, 
 [Ver projeto completo](https://github.com/ChrisFsilva/Reestrutura-o-completa-da-infraestrutura-de-rede-Pl-sticos-Alko-LTDA)
 
 
-## 💻 Programação
+## 💻 Programação e banco de dados
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFsilva&layout=compact&langs_count=7&theme=dracula"/>
