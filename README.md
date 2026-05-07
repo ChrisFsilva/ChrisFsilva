@@ -164,10 +164,8 @@ videoconferência.
 </div>
 
 # 📊 Estastiticas pessoais
-  <a href="https://github.com/ChrisFsilva">
-    <div align="center">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFsilva&layout=compact&langs_count=7&theme=dracula"/>
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisFsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </div>
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChrisFsilva&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChrisFsilva&layout=compact&theme=tokyonight"/>
+</div>
 </div>
