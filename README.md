@@ -83,7 +83,30 @@ essas soluções reduziram tarefas manuais, trouxeram padronização e melhor co
 
 ## 💻 Programação e banco de dados
 <div align="center">
+### 🚀 Desenvolvimento de sistemas web, API's e manipulação de banco de dados — Brentwood (Alameda móveis e decorações LTDA)
+</div>
+<div>
+
+Na Brentwood atuo como analista de sistemas pleno, entre as minhas responsabilidade está o desenvolvimento de API's Javascript para integração entre sistemas interno e web, desenvolvimento full code para criação de novos sistemas web (HTML, CSS, JavaScript), Desenvolvimento de ferramentas de automação full code e low code (Python, Power automate, Power apps), implantação de sistemas e treinamento a usuários, manipulação de banco de dados MySQL com apresentação gráfica em Power BI(MySql, Pentaho, PhpMyAdmin), sustentação do site (Wordpress, PHP, Javascript), as principais entregas incluem os projetos abaixo:
+
+#### Automação de conexão para alimentação do banco de dados
+<div align="center">  
   
+```bash
+Capaz de coletar informações em um CSV criado pelo usuário para alimentar o banco de dados com o intuito de incrementar as informações apresentadas no gráfico do Power Bi.
+[ver projeto completo](https://brentwood.com.br/)
+```
+</div>  
+
+#### Sustentação do site institucional
+<div align="center">  
+  
+```bash
+Manter, melhorar e atualizar o site institucional da empresa, que atua como vitrine dos produtos para contato com o cliente final
+[ver projeto completo](https://github.com/ChrisFsilva/conector-com-database)
+```
+</div>  
+
 ### 🚀 Programação de equipamento Cisco room kit — V.tal Telecomunicações SA.
 </div>
 <div>
@@ -140,7 +163,7 @@ videoconferência.
 </div>
 
 # 📊 Estastiticas pessoais
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/ChrisFsilva">
 <div align="center">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisFsilva&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrisFsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
