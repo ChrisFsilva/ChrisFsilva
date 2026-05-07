@@ -95,8 +95,8 @@ Na Brentwood atuo como analista de sistemas pleno, entre as minhas responsabilid
   
 ```bash
 Capaz de coletar informações em um CSV criado pelo usuário para alimentar o banco de dados com o intuito de incrementar as informações apresentadas no gráfico do Power Bi.
-[ver projeto completo](https://brentwood.com.br/)
 ```
+[ver projeto completo](https://brentwood.com.br/)
 </div>  
 
 #### Sustentação do site institucional
@@ -104,8 +104,8 @@ Capaz de coletar informações em um CSV criado pelo usuário para alimentar o b
   
 ```bash
 Manter, melhorar e atualizar o site institucional da empresa, que atua como vitrine dos produtos para contato com o cliente final
-[ver projeto completo](https://github.com/ChrisFsilva/conector-com-database)
 ```
+[ver projeto completo](https://github.com/ChrisFsilva/conector-com-database)
 </div>  
 
 ### Programação de equipamento Cisco room kit — V.tal Telecomunicações SA.
@@ -113,15 +113,6 @@ Manter, melhorar e atualizar o site institucional da empresa, que atua como vitr
 <div>
   
 Na V.tal atuei como especialista em Videoconferencia, onde desenvolvi um conjunto de soluções e automações voltadas ao ecossistema cisco room kit, com foco em otimizar o suporte técnico, ampliar a visibilidade operacional e reduzir o tempo de resposta em incidentes. as principais entregas técnicas incluem:
-
-#### Api de monitoramento dos dispositivos room kit
-<div align="center">  
-  
-```bash
-Capaz de coletar e enviar dados como status de chamada, contagem de pessoas, rede, câmera, microfone e tablet diretamente para fluxos de automação no power automate.
-[Não concluido)
-```
-</div>
 
 #### Botão help me
 <div align="center">
