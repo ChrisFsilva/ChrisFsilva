@@ -83,6 +83,7 @@ essas soluções reduziram tarefas manuais, trouxeram padronização e melhor co
 
 ## 💻 Programação e banco de dados
 <div align="center">
+
 ### 🚀 Desenvolvimento de sistemas web, API's e manipulação de banco de dados — Brentwood (Alameda móveis e decorações LTDA)
 </div>
 <div>
@@ -107,7 +108,7 @@ Manter, melhorar e atualizar o site institucional da empresa, que atua como vitr
 ```
 </div>  
 
-### 🚀 Programação de equipamento Cisco room kit — V.tal Telecomunicações SA.
+### Programação de equipamento Cisco room kit — V.tal Telecomunicações SA.
 </div>
 <div>
   
